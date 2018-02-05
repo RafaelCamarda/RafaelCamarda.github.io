@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Rafael Camarda # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: avatar.jpg # add your photo
 about-author: Desenvolvedor Ruby na @locaweb. As vezes também paga de nerd, músico e gamer. # add description
 twitter: rafacamarda
 github: rafaelcamarda # add your Github handle
