@@ -1,4 +1,4 @@
-title: Hello, world! I'm David Freeman
+title: Seja bem vindo! Sou Rafael Camarda e utilizo esse espaço para falar sobre assuntos que me vem a mente! Programação, Cultura Pop, Games, Podcasts, e outras aleatoriedades!
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -12,14 +12,13 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Rafael Camarda # add your name
 author-img: david-freeman.jpg # add your photo
 about-author: Desenvolvedor Ruby na @locaweb. As vezes também paga de nerd, músico e gamer. # add description
-twitter: # add your Twitter handle
-facebook: # add your Facebook handle
+twitter: rafacamarda
 github: rafaelcamarda # add your Github handle
-linkedin: # add your Linkedin handle
-email: # add your Email address
+linkedin: rafaelcamarda
+email: rf.camarda@gmail.com
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: Rafael_Camarda # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
