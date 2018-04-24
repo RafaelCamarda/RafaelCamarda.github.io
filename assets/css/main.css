@@ -1129,6 +1129,12 @@ footer .copyright {
   background-position: 50% 50%;
 }
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
 .post .post-content {
   padding: 1rem;
   width: 70%;
