@@ -22,7 +22,7 @@ email: rf.camarda@gmail.com
 discus-identifier: rafaelcamarda # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-118119465-1
 
 # Build Settings
 markdown: kramdown
