@@ -22,7 +22,7 @@ Sempre muito ansioso e com o pensamento acelerado toda essa nova dinâmica estav
 me gerando muito estresse, me fazendo diversas vezes cogitar a desistir de tudo e
 voltar para minha terra (gugu feelings), porém, pesquisando sobre tudo isso e
 talvez em formas de me acalmar e me adaptar melhor a minha nova realidade eis
-que surge algo que eu nunca havia tentando: Meditação.
+que surge algo que eu nunca havia tentado: Meditação.
 
 Sempre fui muito cético a meditação, yoga, controle da respiração e todo esse mundo
 considerado por muitos até meio “esotérico”, incrédulo mas também sem preconceitos
