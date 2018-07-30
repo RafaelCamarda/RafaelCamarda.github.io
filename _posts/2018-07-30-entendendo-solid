@@ -7,10 +7,10 @@ img: capa-post-2.png
 tags: [solid, programacao]
 ---
 Quanto tempo não é mesmo? Fracassei miseravelmente quando prometi que tentaria postar ao menos uma vez na semana.
-Acontece que recebi um convite do meu amigo [Claudio Martins](https://www.linkedin.com/in/clmartins/) pra postar semanalmente no blog
-da sua agência, a [Agência F12](http://blog.agenciaf12.com.br) e acaba que meu tempo pra postar aqui diminuiu bastante. Tá, você tem razão. Se eu jogasse menos Dota e Mario Odssey eu poderia postar mais e prometo fazer uma força pra que isso aconteça. Porém enquanto não trago posts inéditos pra cá, decidi que assim que eu terminasse uma série de postagens no blog da Agência F12 iria trazê-los aqui para compartilhar com todo mundo.
+Acontece que recebi um convite do meu amigo [Claudio Martins](https://www.linkedin.com/in/clmartins/){:target="_blank"} pra postar semanalmente no blog
+da sua agência, a [Agência F12](http://blog.agenciaf12.com.br){:target="_blank"} e acaba que meu tempo pra postar aqui diminuiu bastante. Tá, você tem razão. Se eu jogasse menos Dota e Mario Odssey eu poderia postar mais e prometo fazer uma força pra que isso aconteça. Porém enquanto não trago posts inéditos pra cá, decidi que assim que eu terminasse uma série de postagens no blog da Agência F12 iria trazê-los aqui para compartilhar com todo mundo.
 
-No mês passado produzi uma série sobre os princípios SOLID, muito conhecidos no mundo da orientação a objeto mas que ainda eram um pouco obscuros pra mim. Foi uma experiência única conhecer cada um deles e melhorar como programador. Dessa forma, aqui vão todos os posts da série
+No mês passado produzi uma série sobre os princípios SOLID, muito conhecidos no mundo da orientação a objeto mas que ainda eram um pouco obscuros pra mim. Foi uma experiência única conhecer cada um deles e melhorar como programador. Dessa forma, aqui vão todos os posts da série:
 
 *  S - [Single responsibility principle](http://blog.agenciaf12.com.br/programacao/o-single-responsibility-principle-entendendo-solid-parte-1/){:target="_blank"}
 *  O - [Open closed principle](http://blog.agenciaf12.com.br/programacao/o-open-closed-principle-entendendo-solid-parte-2/){:target="_blank"}
