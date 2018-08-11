@@ -9,7 +9,7 @@ tags: [work, remote job]
 Fala pessoal, tudo bem? Hoje venho trazer um relato pessoal de como foi minha migração para trabalhar 100% remoto. Posso adiantar e dizer: 
 está sendo uma experiência fantástica!
 
-Como disse em meu [outro post sobre meditação](https://www.camarda.com.br/medite-e-se-controle/) desde que tinha me mudado para São Paulo eu 
+Como disse em meu [outro post sobre meditação](https://www.camarda.com.br/medite-e-se-controle/){:target="_blank"} desde que tinha me mudado para São Paulo eu 
 tinha aquele sentimento de "não me sentir em casa", de não pertencimento. O extresse era constante e isso afetava muito meu trabalho e minha
 vida pessoal, apesar da Locaweb onde ainda trabalho no momento que escrevo esse post, ser um lugar incrível para se trabalhar.
 
